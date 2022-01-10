@@ -1,4 +1,4 @@
-#omfg lolelelel
+#omfg loleleleasdfl
 def main():
     print("It's me")
 
